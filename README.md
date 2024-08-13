@@ -25,4 +25,47 @@ The dataset consists of the following fields:
 •	treatment: Treatment prescribed.
 •	follow_up: Indicator if a follow-up visit is required
 
-![Screenshot 2024-08-13 113845](https://github.com/user-attachments/assets/1f444150-42d6-4b70-959e-b611090dc2cb)
+![Screenshot 2024-08-13 113845](https://github.com/user-attachments/assets/1f444150-42d6-4b70-959e-b611090dc2cb
+
+Code Implementation
+Gender Distribution
+
+
+The code was designed to generate a dataset with the following gender distribution:
+•	45% Male
+•	43% Female
+•	12% Others
+
+This distribution was achieved using the numpy library, ensuring the dataset reflects a diverse population.
+Follow-up Visit Allocation
+Follow-up visits were assigned to approximately 30% of the patients. The follow-up was prioritized for patients with chronic diseases, surgeries, or viral infections. Age was also considered in the allocation process, ensuring that older patients with chronic conditions were more likely to receive follow-up appointments.
+
+
+
+3. Data Analysis
+Overview of the Dataset
+The generated dataset includes 5,000 records. The data was analyzed to ensure it met the project’s objectives, focusing on gender distribution, age distribution, and the allocation of follow-up visits.
+Distribution of Age, Gender, and Follow-up Visits
+•	Gender Distribution: The dataset successfully achieved the target distribution of 45% male, 43% female, and 12% others.
+ ![Screenshot 2024-08-13 114155](https://github.com/user-attachments/assets/fd0f4ef3-4dd3-48fa-8a17-ccca6c085232)
+
+•	Age Distribution: The ages were evenly distributed, ensuring a realistic representation of patients from different age groups.
+ ![Screenshot 2024-08-13 114633](https://github.com/user-attachments/assets/760adf48-c8ce-43ea-8133-7c12cea0c183)
+
+•	Follow-up Visits: Approximately 30% of the patients were assigned follow-up visits, with a higher likelihood among those diagnosed with chronic diseases, surgeries, or viral infections.
+ ![Screenshot 2024-08-13 114242](https://github.com/user-attachments/assets/04bd168e-bd70-4397-aded-754d9abf1bdf)
+
+Insights and Findings
+•	The dataset provides a realistic simulation of a small clinic's patient records.
+•	The gender and follow-up distributions were well-balanced, reflecting real-world scenarios.
+•	The age distribution was carefully managed to ensure no age group was over or under-represented.
+4. Conclusion
+Summary of Achievements
+The project successfully generated a synthetic dataset that meets the predefined objectives. The dataset is realistic and well-balanced, making it suitable for testing and analysis in various healthcare-related models.
+Future Work
+Future work could involve expanding the dataset to include additional variables, such as socioeconomic factors, to further enhance the realism of the simulation.
+Git Hub Repository Link
+
+
+
+
