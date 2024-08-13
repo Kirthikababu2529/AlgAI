@@ -25,7 +25,8 @@ The dataset consists of the following fields:
 •	treatment: Treatment prescribed.
 •	follow_up: Indicator if a follow-up visit is required
 
-![Screenshot 2024-08-13 113845](https://github.com/user-attachments/assets/1f444150-42d6-4b70-959e-b611090dc2cb
+
+![Screenshot 2024-08-13 113845](https://github.com/user-attachments/assets/e06df5dd-736d-4e39-97ea-2ef49922990f)
 
 Code Implementation
 Gender Distribution
@@ -64,7 +65,6 @@ Summary of Achievements
 The project successfully generated a synthetic dataset that meets the predefined objectives. The dataset is realistic and well-balanced, making it suitable for testing and analysis in various healthcare-related models.
 Future Work
 Future work could involve expanding the dataset to include additional variables, such as socioeconomic factors, to further enhance the realism of the simulation.
-Git Hub Repository Link
 
 
 
