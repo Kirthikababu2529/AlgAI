@@ -1,0 +1,61 @@
+min_age,max_age,symptom,diagnosis,treatment
+1,5,Cough,Common Cold,Rest
+1,5,Fever,Ear Infection,Antibiotics
+1,5,Runny Nose,Bronchitis,Pain Relief
+6,10,Sore Throat,Tonsillitis,Hydration
+6,10,Stomach Ache,Gastroenteritis,Pain Relief
+6,10,Headache,Migraine,Antibiotics
+11,15,Acne,Hormonal Imbalance,Topical Creams
+11,15,Fatigue,Chronic Fatigue Syndrome,Counseling
+11,15,Anxiety,Generalized Anxiety Disorder,Lifestyle Changes
+16,20,Back Pain,Postural Issues,Physical Therapy
+16,20,Insomnia,Sleep Disorder,Sleep Hygiene
+16,20,Depression,Depressive Disorder,Antidepressants
+21,25,Fatigue,Chronic Fatigue,Exercise
+21,25,Migraines,Migraine,Medication
+21,25,Stress,Anxiety,Counseling
+26,30,Chest Pain,Hypertension,Blood Pressure Medication
+26,30,Shortness of Breath,Panic Disorder,Inhalers
+26,30,Palpitations,Asthma,Therapy
+31,35,Joint Pain,Arthritis,Pain Relief
+31,35,Weight Gain,Hypothyroidism,Thyroid Hormone Replacement
+31,35,Fatigue,Chronic Fatigue,Exercise
+36,40,Headache,Migraine,Pain Relief
+36,40,Vision Problems,Eye Strain,Glasses
+36,40,Insomnia,Sleep Apnea,CPAP Therapy
+41,45,High Blood Pressure,Hypertension,Antihypertensives
+41,45,Fatigue,Chronic Fatigue Syndrome,Lifestyle Modifications
+41,45,Shortness of Breath,Asthma,Inhalers
+46,50,Chest Pain,Heart Disease,Cardiac Rehab
+46,50,Weight Gain,Obesity,Dietary Changes
+46,50,Sleep Apnea,Sleep Apnea,CPAP Therapy
+51,55,Joint Pain,Osteoarthritis,Pain Relief
+51,55,Hot Flashes,Menopause,Hormone Replacement Therapy
+51,55,Memory Loss,Early Onset Alzheimer’s,Cognitive Therapy
+56,60,High Cholesterol,Hyperlipidemia,Statins
+56,60,Shortness of Breath,Asthma,Inhalers
+56,60,Fatigue,Chronic Fatigue,Exercise
+61,65,Chest Pain,Heart Disease,Surgery
+61,65,Vision Loss,Cataracts,Hearing Aids
+61,65,Hearing Loss,Age-Related Hearing Loss,Medication
+66,70,Joint Pain,Arthritis,Pain Relief
+66,70,Memory Loss,Dementia,Cognitive Therapy
+66,70,Balance Issues,Parkinson’s Disease,Physical Therapy
+71,75,Fatigue,Heart Failure,Diuretics
+71,75,Heart Palpitations,Atrial Fibrillation,Blood Thinners
+71,75,Shortness of Breath,Chronic Obstructive Pulmonary Disease (COPD),Bronchodilators
+76,80,Memory Loss,Alzheimer’s Disease,Cognitive Therapy
+76,80,Vision Loss,Glaucoma,Surgery
+76,80,Hearing Loss,Age-Related Hearing Loss,Hearing Aids
+81,85,Fatigue,Heart Failure,Medication
+81,85,Weakness,COPD,Oxygen Therapy
+81,85,Shortness of Breath,Anemia,Iron Supplements
+86,90,Severe Fatigue,Heart Failure,Medication
+86,90,Chest Pain,Stroke,Surgery
+86,90,Confusion,Dementia,Cognitive Therapy
+91,95,Extreme Weakness,Heart Disease,Palliative Care
+91,95,Breathing Difficulties,Pneumonia,Pain Management
+91,95,Severe Pain,Advanced Cancer,Oxygen Therapy
+96,100,Extreme Fatigue,End-of-Life Conditions,Palliative Care
+96,100,Multiple Organ Failure,Sepsis,Comfort Measures
+96,100,Loss of Consciousness,Advanced Dementia,Hospice Care
